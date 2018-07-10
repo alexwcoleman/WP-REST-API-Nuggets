@@ -35,7 +35,6 @@
             });
             
         });
-        // console.log(data);
         
     }
     // I fired this on page load,  but you might want to do some testing *first* ;) 🤠
